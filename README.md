@@ -8,7 +8,7 @@ Start the program
 ### Step 2: 
 Write the program appropriately
 ### Step 3: 
-Substitute the values in the distance formula
+Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 Execute the program
 ### Step 5:
